@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 100px;
+}
+
+.img {
+    border: 5px solid black;
+}
+
